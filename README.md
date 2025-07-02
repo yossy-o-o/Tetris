@@ -6,7 +6,7 @@
 
 ## 🛠 使用ライブラリ
 
-- **SFML 2.6.1**
+- SFML 2.6.1
   - 使用モジュール：
     - `sfml-graphics`
     - `sfml-window`
